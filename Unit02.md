@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV301: Introduction to Paralegal Studies"
+course_description: "This course will introduce you to the basic knowledge and skills required of paralegals. By the end of this course, you will have a clear understanding of what a paralegal does, the skills needed to be a successful paralegal, and what it will take to begin a career as a paralegal."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Legal System** <span id="2"></span> 
 *Each legal system is different.  Its foundations may present widely
 different ways of approaching the law and understanding the distribution

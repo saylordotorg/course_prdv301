@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV301: Introduction to Paralegal Studies"
+course_description: "This course will introduce you to the basic knowledge and skills required of paralegals. By the end of this course, you will have a clear understanding of what a paralegal does, the skills needed to be a successful paralegal, and what it will take to begin a career as a paralegal."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Sources of the Law** <span id="3"></span> 
 *We think we know what we are talking about when we talk about the law. 
 But what exactly is the law, and where does it come from?  For example,

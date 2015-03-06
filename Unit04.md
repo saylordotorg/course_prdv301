@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV301: Introduction to Paralegal Studies"
+course_description: "This course will introduce you to the basic knowledge and skills required of paralegals. By the end of this course, you will have a clear understanding of what a paralegal does, the skills needed to be a successful paralegal, and what it will take to begin a career as a paralegal."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Judicial System** <span id="4"></span> 
 *A system of justice requires a process for justice.  In general, that
 process is available through the judicial system.  Lawyers and

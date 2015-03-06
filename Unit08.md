@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV301: Introduction to Paralegal Studies"
+course_description: "This course will introduce you to the basic knowledge and skills required of paralegals. By the end of this course, you will have a clear understanding of what a paralegal does, the skills needed to be a successful paralegal, and what it will take to begin a career as a paralegal."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Investigations and Interviews** <span id="8"></span> 
 *A client comes to a lawyer after a car accident.  The client has been
 injured and believes the other driver caused the accident, but the other
