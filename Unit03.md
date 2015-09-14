@@ -126,7 +126,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Harvard Law School Library’s “Researching Federal and
     State Statutes”**
     Link: Harvard Law School Library’s [“Researching Federal and State
-    Statutes”](http://www.law.harvard.edu/library/research/guides/united_states/statutes.html)
+    Statutes”](http://web.archive.org/web/20131126165152/http://www.law.harvard.edu/library/research/guides/united_states/statutes.html)
     (HTML)  
       
      Instructions: Please click on the link above and read this entire
