@@ -155,3 +155,4 @@ and then to set goals for yourself.
 - [Unit 9](https://legacy.saylor.org/prdv301/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv301/Unit10/)
 - [Unit 11](https://legacy.saylor.org/prdv301/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV301/PRDV301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV301/PRDV301-FinalExam-Answers.html)
