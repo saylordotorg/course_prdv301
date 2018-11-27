@@ -43,7 +43,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 7: The Legal
-    System”](http://www.saylor.org/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read Chapter 7,
@@ -68,7 +68,7 @@ Upon successful completion of this unit, the student will be able to:
     2: The Court System – Section 3: Trial and Appellate Courts”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 2:
     The Court System – Section 3: Trial and Appellate
-    Courts”](http://www.saylor.org/site/wp-content/uploads/2012/10/PRDV301-4.1.pdf)
+    Courts”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-4.1.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section 3:
@@ -98,7 +98,7 @@ the United States.*
     Link: *Foundations of* *Business Law and the Legal Environment*:
     [“Chapter 3: Courts and Legal Process – Section 5: Judgment, Appeal,
     and
-    Execution”](http://www.saylor.org/site/wp-content/uploads/2012/10/PRDV301-4.2.pdf)
+    Execution”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-4.2.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section 5:
@@ -120,7 +120,7 @@ the United States.*
     2: The Court System – Section 4: The Certiorari Process”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 2:
     The Court System – Section 4: The Certiorari
-    Process”](http://www.saylor.org/site/wp-content/uploads/2012/10/PRDV301-4.3.pdf)
+    Process”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-4.3.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section 4:
