@@ -40,7 +40,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 11:
-    Litigation”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Litigation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Now that you have become familiar with the legal
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 13: Criminal
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: The process by which a criminal case makes its way

@@ -38,7 +38,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Free Law Coalition: Sarah Glassmeyer’s “Research
     Primer”**
     Link: Free Law Coalition: Sarah Glassmeyer’s [“Research
-    Primer”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-7.pdf)
+    Primer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-7.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read this entire
@@ -134,7 +134,7 @@ id="7.1.1"></span> 
 **7.2.2 Non-Proprietary Tools** <span id="7.2.2"></span> 
 -   **Reading: Free Law Coalition: Sarah Glassmeyer’s “Research”**
     Link: Free Law Coalition: Sarah Glassmeyer’s
-    [“Research”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-7.2.2.pdf)
+    [“Research”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-7.2.2.pdf)
     (PDF)  
       
      Instructions: Like all areas of life and employment, the Internet

@@ -73,7 +73,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -92,9 +92,9 @@ following materials:
     Utilization of Paralegal
     Services”](http://www.americanbar.org/groups/paralegals/resources/information_for_lawyers_how_paralegals_can_improve_your_practice.html)
 -   *[The Legal and Ethical Environment of
-    Business](https://resources.saylor.org/archived/textbooks/The%20Legal%20and%20Ethical%20Environment%20of%20Business.pdf)*
+    Business](https://resources.saylor.org/wwwresources/archived/site/textbooks/The%20Legal%20and%20Ethical%20Environment%20of%20Business.pdf)*
 -   *[Business Law and the Legal
-    Environment](https://resources.saylor.org/archived/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)*
+    Environment](https://resources.saylor.org/wwwresources/archived/site/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)*
 -   Netplaces.com: Steve W. Schneider’s [“Defining the Goals of the
     Investigation”](http://www.netplaces.com/paralegal/investigation/defining-the-goals-of-the-investigation.htm), [“Types
     of

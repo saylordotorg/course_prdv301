@@ -34,7 +34,7 @@ Upon successful completion of this unit, the student will be able to:
     5: The Constitution – Section 1: Federalism and Preemption”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 5:
     The Constitution – Section 1: Federalism and
-    Preemption”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-2.1.1.pdf)
+    Preemption”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-2.1.1.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and read “Section 1:
@@ -58,7 +58,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Business Law and the Legal Environment*: [“Chapter 4:
     Constitutional Law and US Commerce – Section 1: Basic Aspects of the
     US
-    Constitution”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-2.1.1b.pdf)
+    Constitution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-2.1.1b.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section 1:
@@ -114,7 +114,7 @@ Focus on these sections.*
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 9: Common
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Chapter 9
@@ -144,7 +144,7 @@ Focus on these sections.*
     Link: *Business Law and the Legal Environment*: [“Chapter 1:
     Introduction to Law and Legal Systems – Section 5: Legal and
     Political Systems of the
-    World”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-2.2.pdf)
+    World”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-2.2.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section 5:
