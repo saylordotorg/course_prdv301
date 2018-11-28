@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: University of Florida Libraries’ “General Legal
     Research”**
     Link: University of Florida Libraries’ [“General Legal
-    Research”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-1.2.1.pdf)
+    Research”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-1.2.1.pdf)
     (PDF)  
       
      Instructions: This article provides a brief introduction to legal
@@ -110,7 +110,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: University of Florida Libraries’ “Legal Research for
     Non-Law Students”**
     Link: University of Florida Libraries’ [“Legal Research for Non-Law
-    Students”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-1.2.1b.pdf)
+    Students”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-1.2.1b.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the entire
@@ -130,7 +130,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: ENGL-110-RESEARCH-PROJECTS: Emily Krinsky’s “Legal
     Writing”**
     Link: ENGL-110-RESEARCH-PROJECTS: Emily Krinsky’s [“Legal
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-1.2.2.pdf)
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-1.2.2.pdf)
     (PDF)  
       
      Instructions: This material is drawn from a college research
@@ -151,7 +151,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.2.3 Investigation** <span id="1.2.3"></span> 
 -   **Reading: Kaplan University’s “Pre-Complaint Investigation”**
     Link: Kaplan University’s [“Pre-Complaint
-    Investigation”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-1.2.3.pdf)
+    Investigation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-1.2.3.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the entire
@@ -269,7 +269,7 @@ id="1.5"></span> 
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 4: Legal
-    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Terms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: This chapter, which begins on page 24, will give you

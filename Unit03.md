@@ -45,7 +45,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 2: Sources of
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Now that you have familiarized yourself with the
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession:* [“Chapter 3: Classifications of
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read Chapter 3,
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession:* [“Chapter 10: Constitutional
-    Law”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf) (PDF)  
+    Law”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf) (PDF)  
       
      Instructions: Please click on the link above and read Chapter 10,
     which begins on page 95.  This reading provides a comprehensive

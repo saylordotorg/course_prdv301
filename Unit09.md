@@ -68,7 +68,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 5: Legal
-    Ethics”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Ethics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read Chapter 5,

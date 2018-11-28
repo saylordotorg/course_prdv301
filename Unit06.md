@@ -66,7 +66,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Legal and Ethical Environment of Business: “Chapter
     6: Contracts”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 6:
-    Contracts”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-6.2.pdf)
+    Contracts”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-6.2.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the
@@ -88,7 +88,7 @@ Upon successful completion of this unit, the student will be able to:
     8: The Property System”**
     Link: *The Legal and Ethical Environment of Business*: [“Chapter 8:
     The Property
-    System”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/PRDV301-6.3.pdf)
+    System”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/PRDV301-6.3.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the
@@ -133,9 +133,9 @@ Upon successful completion of this unit, the student will be able to:
     Contract Law”**
     Link: *Business Law and the Legal Environment*: ["Section 8.1:
     General Perspectives on
-    Contracts"](https://resources.saylor.org/archived/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)
+    Contracts"](https://resources.saylor.org/wwwresources/archived/site/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)
     (PDF) and [“Section 8.2: Sources of Contract
-    Law”](https://resources.saylor.org/archived/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)
+    Law”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Business%20Law%20and%20the%20Legal%20Environment.pdf)
     (PDF)  
       
      Instructions: Click on the link above and scroll down to sections
@@ -180,7 +180,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: B.B. “Sixty” Rayburn Correctional Center College
     Correspondence Program: Keith Nordyke’s *Intro to Law and the
     Paralegal Profession*: [“Chapter 15: Wills and
-    Estates”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
+    Estates”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/PRDV301-IntroToLawandtheParalegalProfession.pdf)
     (PDF)  
       
      Instructions: As the title of this reading suggests, in this
